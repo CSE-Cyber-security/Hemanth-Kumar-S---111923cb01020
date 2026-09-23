@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cybersecurity Asset Inventory System – Week 01
 
 A Python-based CLI system to manage IT assets, track security status, and prioritize risk for security administrators.
@@ -143,3 +144,6 @@ Week 01 Mini Project – Cybersecurity Asset Inventory System
 
 ## 📄 License
 Educational use.
+=======
+# Hemanth-Kumar-S---111923cb01020
+>>>>>>> 38ed26ce6f0337d2045da1dc271989e47e3e4fe4
